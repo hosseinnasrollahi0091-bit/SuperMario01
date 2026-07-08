@@ -1,2 +1,3 @@
 class dev :
-    pass
+    print("hossein")
+    print("ali")
